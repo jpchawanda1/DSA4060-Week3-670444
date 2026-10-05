@@ -1,0 +1,12 @@
+movie_id,title,Action,Comedy,Drama,Romance,SciFi
+1,Galaxy Mission,1,0,0,0,1
+2,Love in Nairobi,0,0,1,1,0
+3,Final Battle,1,0,0,0,0
+4,Family Weekend,0,1,0,0,0
+5,Future World,1,0,0,0,1
+6,Broken Hearts,0,0,1,1,0
+7,City Detectives,1,0,1,0,0
+8,Space Warriors,1,0,0,0,1
+9,Wedding Weekend,0,1,0,1,0
+10,Hidden Truth,0,0,1,0,0
+11,Money Heist,1,0,1,1,0
